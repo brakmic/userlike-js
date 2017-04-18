@@ -19,7 +19,7 @@ const displayCollection = (objects: any): void => {
 const queryChatMetas = (): Promise<any> => {
     console.log(`Querying Chat List\r\n`);
     return api.chatMetas().then((response: Api.Public.ChatMetaResponse) => {
-        console.log(`Response received containing ${response.chat_metas.length} messages and events.\r\n`);
+        console.log(`Response received containing ${response.chat_metas[0].messages_and_events} messages and events.\r\n`);
         displayCollection(response.chat_metas);
     });
 };
