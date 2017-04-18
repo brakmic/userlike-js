@@ -24,7 +24,10 @@ To start the demonstration from `index.ts` type `npm run start:client`.
 
 Don't forget to put your debug respective production key into [src/config.js](https://github.com/brakmic/userlike-js/blob/master/src/config.json).
 
-Your console output would look like this:
+Your console output would then look like this:
+
+To get a key you have to [register](https://www.userlike.com/en/pricing) first. There's a free, 14-day-limited subscription available. 
+
 
 ![console output](https://preview.ibb.co/iEG11Q/chat_meta.png)
 
