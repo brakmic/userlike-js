@@ -20,7 +20,7 @@ or
 
 ## Running
 
-To start the demonstration from `index.ts` type `npm run start:client`.
+To run the demo from [index.ts](https://github.com/brakmic/userlike-js/blob/master/index.ts#L21) type `npm run start:client`.
 
 Don't forget to put your debug respective production key into [src/config.js](https://github.com/brakmic/userlike-js/blob/master/src/config.json).
 
