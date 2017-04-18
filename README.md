@@ -26,7 +26,7 @@ Don't forget to put your API keys into [src/config.js](https://github.com/brakmi
 
 Your console output would then look like this:
 
-![console output](https://preview.ibb.co/iEG11Q/chat_meta.png)
+![console output](https://picload.org/image/rcolacai/chat_meta.png)
 
 To get a key you have to [register](https://www.userlike.com/en/pricing) first. There's a free, 14-day-limited subscription available. 
 
