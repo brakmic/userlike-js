@@ -22,7 +22,7 @@ or
 
 To run the demo from [index.ts](https://github.com/brakmic/userlike-js/blob/master/index.ts#L21) type `npm run start:client`.
 
-Don't forget to put your API keys into [src/config.js](https://github.com/brakmic/userlike-js/blob/master/src/config.json).
+Don't forget to put your API keys into [src/config.json](https://github.com/brakmic/userlike-js/blob/master/src/config.json).
 
 Your console output would then look like this:
 

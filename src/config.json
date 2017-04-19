@@ -1,5 +1,5 @@
 {
-    "debugAuthKey": "75bc6c48-1317-380d-9292-fb87e999b406",
+    "debugAuthKey": "ADD_YOUR_DEBUG_API_KEY_HERE",
     "productionAuthKey": "ADD_YOUR_PRODUCTION_API_KEY_HERE",
     "debugMode": true,
     "server": "localhost"
