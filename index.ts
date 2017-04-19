@@ -31,7 +31,7 @@ class Client {
     }
     public run() {
 
-        queryChatMetas().then(displayCollection);
+        queryChatMetas();
 
     }
     private setup() {
