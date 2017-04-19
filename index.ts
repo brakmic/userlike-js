@@ -30,9 +30,7 @@ class Client {
         this.setup();
     }
     public run() {
-
         queryChatMetas();
-
     }
     private setup() {
         api = new UserlikeApi(config.debugAuthKey);
