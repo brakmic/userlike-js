@@ -1,6 +1,6 @@
 # JavaScript Bindings for [Userlike](https://www.userlike.com/en/) API
 
-This is an experimental library written in TypeScript for accessing publicly availables [Userlike](https://www.userlike.com/en/public/tutorial/api/intro) APIs.
+This is an experimental library written in TypeScript for accessing publicly available [Userlike](https://www.userlike.com/en/public/tutorial/api/intro) APIs.
 
 ## Structure 
 
