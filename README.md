@@ -66,7 +66,7 @@ To get your data nicely formatted just go to [JSONformatter](https://jsonformatt
 
 The Chat Widget classes and their properties reflect the original JavaScript structures with one exception: the [property](https://github.com/brakmic/userlike-js/blob/master/src/platform/api/interfaces/chat-widget/theme.ts#L15) `chat_operator_text_color` in [Theme](https://github.com/brakmic/userlike-js/blob/master/src/platform/api/interfaces/chat-widget/theme.ts#L1) class. In the original (decoded) source it contains a white space: 
 
-`chat_operator_text color`. 
+`chat_operator_text color`
 
 I suppose that they access it only via bracket notation so the white space is not a real problem.  
 
