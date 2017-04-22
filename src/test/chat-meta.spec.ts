@@ -13,7 +13,7 @@ describe('ChatMeta', () => {
     it('is callable', () => {
         expect(Api.Calls.ChatMetas.query).to.be.a('function');
     });
-    it('retrieves a valid ChatMetaResponse', (done) => {
+    it('receives a valid ChatMetaResponse', (done) => {
         Api.Calls.ChatMetas.query(Config.ApiKey).
             then(value => {
                 expect(value).to.be.of('ChatMetaResponse');

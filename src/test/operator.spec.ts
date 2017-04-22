@@ -13,7 +13,7 @@ describe('Operator', () => {
     it('is callable', () => {
         expect(Api.Calls.Operators.query).to.be.a('function');
     });
-    it('retrieves a valid OperatorResponse', (done) => {
+    it('receives a valid OperatorResponse', (done) => {
         Api.Calls.Operators.query(Config.ApiKey).
             then(value => {
                 expect(value).to.be.of('OperatorResponse');
