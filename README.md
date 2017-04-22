@@ -20,7 +20,6 @@ There are several DTO classes located unter *types*. For example, the [ChatMetaR
 | [ChatWidget](https://github.com/brakmic/userlike-js/tree/master/src/platform/api/interfaces/chat-widget) => *see also* [Config](#chat-widget-configuration)|
 
 
-
 ## Installation
 
 `npm install`
@@ -40,6 +39,12 @@ Your console output would then look like this:
 ![console output](https://picload.org/image/rcolacai/chat_meta.png)
 
 To get a key you have to [register](https://www.userlike.com/en/pricing) first. There's a free, 14-day-limited subscription available. 
+
+## Tests
+
+`npm test`
+
+![userlike_tests](https://picload.org/image/rcllwdwi/userlike_tests.png)
 
 ## Chat Widget Configuration
 
