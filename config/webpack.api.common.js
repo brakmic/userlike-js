@@ -68,7 +68,6 @@ module.exports = function(options) {
     // An array of directory names to be resolved to the current directory
     modules: [
         helpers.root('src'),
-        helpers.root('src/api'),
         helpers.root('src/platform'),
         helpers.root('src/init'),
         helpers.root('src/vendor'),

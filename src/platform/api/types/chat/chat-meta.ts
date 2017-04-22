@@ -1,10 +1,9 @@
+import { Organization } from '../common';
 import { ChatWidget } from './chat-widget';
 import { Custom } from './custom';
 import { Note } from './note';
-import { MessagesAndEvent } from './messages-and-event';
 import { ChatWidgetGoal } from './chat-widget-goal';
-import { Message } from './message';
-import { Organization } from './organization';
+import { Message, MessagesAndEvent } from '../message';
 
 export interface ChatMeta {
 	was_proactive: boolean;

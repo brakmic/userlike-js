@@ -1,5 +1,5 @@
+import { Organization } from '../common';
 import { ChatWidget } from './chat-widget';
-import { Organization } from './organization';
 
 export interface OfflineMessage {
 	loc_city: string;

@@ -1,6 +1,6 @@
 import * as _ from 'lodash';
 import { RequestHelper } from '../../base';
-import { IConfig } from '../public';
+import { IConfig } from '../interfaces';
 const jsBase64 = require('js-base64').Base64;
 
 export class ApiAuth {
