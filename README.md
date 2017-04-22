@@ -43,7 +43,7 @@ To get a key you have to [register](https://www.userlike.com/en/pricing) first. 
 
 ## Chat Widget Configuration
 
-Although not being a part of the public API the [ChatWidget](https://github.com/brakmic/userlike-js/blob/master/src/platform/api/interfaces/chat-widget/index.ts#L3) class offers some interesting insights into the structure of the chat widget that can be integrated into own web pages. I discovered it accidentally while reading the automatically generated code of the chat client. To create this widget go to your Dashboard and select `Config/Widgets`. After you've configured it select `Install/JavaScript Widget Code`. An embeddable script-tag will show up. Now, open the URL from *src* in your browser.
+Although not a part of the public API the [ChatWidget](https://github.com/brakmic/userlike-js/blob/master/src/platform/api/interfaces/chat-widget/index.ts#L3) class offers some interesting insights into the structure of the chat widget that can be integrated into own web pages. I discovered it accidentally while reading the automatically generated code of the chat client. To create this widget go to your Dashboard and select `Config/Widgets`. After you've configured it select `Install/JavaScript Widget Code`. An embeddable script-tag will show up. Now, open the URL from *src* in your browser.
 
 ![widget-config](https://img3.picload.org/image/rcllaill/get_chat_client_code.png)   
 
