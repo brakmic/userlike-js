@@ -1,3 +1,4 @@
+<a name="begin_readme"></a>
 # JavaScript Bindings for [Userlike](https://www.userlike.com/en/) API
 
 This is an experimental library written in TypeScript for accessing publicly available [Userlike](https://www.userlike.com/en/public/tutorial/api/intro) APIs.
@@ -8,6 +9,7 @@ This is an experimental library written in TypeScript for accessing publicly ava
 
 There are several DTO classes located unter *types*. For example, the [ChatMetaResponse](https://github.com/brakmic/userlike-js/blob/master/src/api/v1/public/responses/chat-meta.response.ts) contains an array of [ChatMeta](https://github.com/brakmic/userlike-js/blob/master/src/api/v1/public/types/chat/chat-meta.ts) instances with several sub-classes, like [Message](https://github.com/brakmic/userlike-js/blob/master/src/api/v1/public/types/chat/message.ts), [MessagesAndEvents](https://github.com/brakmic/userlike-js/blob/master/src/api/v1/public/types/chat/messages-and-event.ts), [Organization](https://github.com/brakmic/userlike-js/blob/master/src/api/v1/public/types/chat/organization.ts), [Note](https://github.com/brakmic/userlike-js/blob/master/src/api/v1/public/types/chat/note.ts) etc.
 
+<a name="class_structure"></a>
 |  Classes   |
 |----|
 | [ChatMeta](https://github.com/brakmic/userlike-js/blob/master/src/platform/api/types/chat/chat-meta.ts)   |
