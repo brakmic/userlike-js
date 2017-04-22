@@ -36,7 +36,7 @@ Although not being a part of the public API the [ChatClient](https://github.com/
 
 ![widget-config](https://img3.picload.org/image/rcllaill/get_chat_client_code.png)   
 
-Your browser will show you a script containing similar data like in the screenshot below:
+Your browser will show you a script like this:
 
 ![script-data](https://img3.picload.org/image/rcllaila/chat_client_config.png)
 
